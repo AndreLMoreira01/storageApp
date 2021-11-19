@@ -1,0 +1,7 @@
+{
+  "name": "storegeApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
